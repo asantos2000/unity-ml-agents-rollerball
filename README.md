@@ -221,7 +221,5 @@ Como última dica, se você for usar esse modelo em todos os agente, edite o *Pr
 * [Unity ML - Agents (Beta)](https://github.com/c-barron/ml-agents)
 * [Making a New Learning Environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Create-New.md)
 * [ML-Agents Community Challenge Winners](https://unity3d.com/machine-learning/)
-* [ccthien/MetalWarfareML](https://github.com/ccthien/MetalWarfareML)
 * [SpaceY (Unity ML-Agents demo project)](https://github.com/bmv-2143/SpaceY-Rocket-Lander---Unity-ML-Agents-Demo-Project)
-* [UnityMLSatelliteAI](https://github.com/Emilus666/UnityMLSateliteAI)
 * [hide-escape](https://github.com/HappySlice/hide-escape)
